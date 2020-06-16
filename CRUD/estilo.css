@@ -1,0 +1,30 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.jumbotron{
+	background-image:url(img/uno.png);
+	font-family: Lucida Sans Unicode;
+	color:#4ecca3;
+	text-shadow: 2px 2px #111;
+	width: auto;
+}
+
+.navbar{
+	height: auto;
+}
+
+.bg-light{
+	opacity: .8;
+}
+
+.nav-link{
+	font-size: 25px;
+	color: #fef8e6;
+}
+
+.nav-link:hover{
+	color: #4ecca3;
+}
+

@@ -1,0 +1,107 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.navbar{
+	background-color: #393e46;
+
+}
+
+
+a{
+	color: #eeeeee;
+	font-size: 25px;
+	font-family:Lucida Sans Unicode;
+}
+
+a:hover{
+	color: #4ecca3;
+}
+
+.jumbotron{
+	background-color: #4ecca3;
+	width: auto;
+}
+
+#a{
+	text-align: center;
+	font-family:Lucida Sans Unicode;
+	font-size: 50px;
+	color: #eeeeee;
+}
+
+.page-link{
+	color: black;
+}
+
+.page-link:hover{
+	color: #4ecca3;
+
+}
+
+.nav-link{
+	color: black;
+}
+
+.nav-link:hover{
+	color:#4ecca3;
+}
+
+.uno{
+	color: #eeeeee;
+}
+
+.btn{
+	background: #4ecca3;
+}
+
+.parrafo{
+	color: #eeeeee;
+	text-align: justify;
+}
+
+h2{
+	font-family:Lucida Sans Unicode;
+
+}
+
+.icon-facebook{
+	background: rgba(46, 64, 110, 1);
+	
+}
+
+.icon-instagram{
+	background: rgba(63, 96, 165, 1);
+	
+}
+
+.icon2{
+	color: white;
+	text-decoration: none;
+	padding: .7rem;
+	margin: 15px;
+}
+
+.icon2:hover{
+	color: rgba(0,0,0,0.50);
+}
+
+.sociales{
+	margin-top: 15px;
+	border:none;
+}
+
+.card-body{
+	text-align: justify;
+}
+
+.caja{
+	background-color: white;
+}
+
+.caja1{
+	background-color: white;
+	height: 100px;
+	width: auto;
+}

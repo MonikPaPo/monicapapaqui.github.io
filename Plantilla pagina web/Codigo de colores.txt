@@ -1,0 +1,23 @@
+Primera Pagina:
+#232931 (encabezado)
+#393e46 (navegador)
+#4ecca3 (hover)
+#eeeeee (body)
+
+Segunda Pagina:
+#b0deff (Hover)
+#f9fce1 (Body)
+#fee9b2 (Encabezado)
+#fbd1b7 (Navegacion)
+
+Tercera Pagina:
+#ecfcff (Body)
+#5edfff (Encabezado)
+#3e64ff (hover)
+#111111 (Navegacion)
+
+Cuarta Pagina:
+#fdef96 (body)
+#f7b71d (hover)
+#afa939 (Encabezado)
+#2b580c (Barra horizontal)

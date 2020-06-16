@@ -1,0 +1,164 @@
+*{
+  font-family: Arial;
+}
+
+body{
+  height: 1500px;
+}
+
+/*.open-button{
+  background-color: #111;
+  font-size: 18px;
+  color: white;
+  padding: 16px 20px;
+  border-radius: 20em;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 150px
+}*/
+
+.open-button{
+  width:70px;
+  height:70px;
+  position: fixed;
+  background-color:#0078d4;
+  color:white;
+  opacity: 0.8;
+  cursor: pointer;
+  margin: 10px;
+  padding:10px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  font-size:40px;
+  line-height:35px;
+  text-transform: uppercase;
+  right:28px;
+  bottom: 23px;
+}
+
+.open-button:hover{
+  opacity: 0.50;
+  -moz-opacity: .50;
+  filter:alpha (opacity=50);
+}
+.open-button a{
+  color:#54daff;
+  text-decoration:none;
+  padding:5px 5px 5px 0;
+}
+
+
+
+.cerrar{
+  background-color: #B40404;
+  color:white;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 10px;
+  padding-right: 10px;
+  float: right;
+  border: none;
+}
+
+.chat__chatbot{
+  position: fixed;
+  bottom: 0px;
+  right: 2%;
+  width:280px;
+  height: 390px;
+  border-radius:25px;
+  border: 3px solid #f1f1f1;
+  overflow: hidden;
+  z-index: 2147483646;
+}
+
+.container__chatbot{
+  padding: 10px;
+  background-color: white;
+}
+
+.container__chatbot textarea{
+  width: 100%;
+}
+
+.enviar{
+  background-color: #4CAF50;
+  color: white;
+  float: right;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+.chat_chatbot_barra{
+  background-color: #0078d4;
+  width: 100%;
+  height: 60px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+}
+.mini{
+  color:white;
+  background-color:#0078d4;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px;
+  float: right;
+  border: none;
+}
+
+.titulo{
+  float: left;
+  color:white;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.container1 {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.darker {
+  border-color: #ccc;
+  background-color: #ddd;
+}
+
+.container1:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.time-right {
+  float: right;
+  color: #aaa;
+}
+
+.time-left {
+  float: left;
+  color: #999;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+  margin-top:100px;
+  background-color: #ddd;
+  padding: 10px 0 0 10px;
+  font-size: 20px;
+}
+
+
